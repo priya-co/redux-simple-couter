@@ -1,0 +1,36 @@
+.main-container {
+    width: 250px;
+    display: flex;
+}
+
+.reset-button {
+    padding: 10px;
+    margin: 10px;
+    height: 20px;
+    width: 60px;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px;
+    margin: 10px;
+    height: 20px;
+    width: 20px;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.count {
+    padding: 10px;
+    height: 20px;
+    width: 20px;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
